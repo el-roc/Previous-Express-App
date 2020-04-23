@@ -1,8 +1,8 @@
-![21 Savage](public/21savage.jpg)
+![img](to-do-express.png)
 
 ## FullStack App
 
-Uses Express and MongoDB
+Uses Express and MongoDB to host DB and simplify the server
 
 
 ## Usage
@@ -10,4 +10,6 @@ Uses Express and MongoDB
 To Do List
 MongoDB
 
-## 
+## Technology Used 
+
+Express, Node JS, MongoDB, Javascript, HTML. CSS
